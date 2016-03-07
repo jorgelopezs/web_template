@@ -1,0 +1,16 @@
+{
+  "name": "website_template",
+  "version": "1.0.0",
+  "description": "My bare web template",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.0",
+    "grunt-prettyugly": "^0.1.1",
+    "grunt-processhtml": "^0.3.13"
+  }
+}

@@ -1,0 +1,9 @@
+$primaryColor : #000;
+
+h2{
+	color: $primaryColor;
+
+	span{
+		color : $primaryColor;
+	}
+}

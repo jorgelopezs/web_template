@@ -1,0 +1,22 @@
+{
+  "name": "website_template",
+  "authors": [
+    "jorge <jorgelopezdev@gmail.com>"
+  ],
+  "description": "My website basic dependencies.",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "unsemantic": "git://github.com/nathansmith/unsemantic.git#^1.0.3"
+  }
+}
